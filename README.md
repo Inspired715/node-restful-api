@@ -9,7 +9,7 @@ Simple NodeJS Rest API consuming JSON file.
 
 ![](screenshot.png)
 
-## Installation
+## Installations
 
   Install dependencies:
 
